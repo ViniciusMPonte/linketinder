@@ -12,7 +12,7 @@ Além das funcionalidades básicas, como listar, cadastrar e excluir usuários (
 ### 📂 **entities** - Entidades
 - `Candidate`: Classe resonsável por métodos e parametros da entidade Candidato
 - `Enterprise`: Classe resonsável por métodos e parametros da entidade Empresa
-- `User`: Classe abstrata base para usuários do sistema (candidatos e empresas)
+- `User`: Interface base para usuários do sistema (candidatos e empresas)
 - `SkillsList`: Define e valida as competências técnicas
 
 ### 📂 **managers** - Gerenciadores
